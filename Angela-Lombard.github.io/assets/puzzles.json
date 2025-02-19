@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "image": "./assets/puzzles/puzzle1.png",
+      "choices": ["A", "B", "C", "D", "E"],
+      "correct": "B",
+      "explanation": "In this example, the square and triangle slowly move towards the center and finally merge. The next diagram must contain the square and triangle fully merged and therefore the answer is B."
+    },
+    {
+      "id": 2,
+      "image": "./assets/puzzles/puzzle2.png",
+      "choices": ["A", "B", "C", "D", "E"],
+      "correct": "D",
+      "explanation": "The circle rotates anti-clockwise around the hexagon, and the black triangle alternates its position. The next diagram must have the circle at the top and the triangle in the top right corner."
+    },
+    {
+      "id": 3,
+      "image": "./assets/puzzles/puzzle3.png",
+      "choices": ["A", "B", "C", "D", "E"],
+      "correct": "D",
+      "explanation": "The semi-circle and semi-rectangle swap positions, and the black square rotates clockwise. The next diagram will have the semi-rectangle on the left and the black square at the bottom."
+    }
+  ]
+  
